@@ -167,6 +167,16 @@ main {
    margin-right: 0;
  }
 
+ .meus_contatos {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+ }
+
+ .meus_contatos img {
+  margin-bottom: -0.25rem;
+ }
+
  @media (max-height: 480px) {
    footer {
      display: none;
